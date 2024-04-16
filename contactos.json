@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "phone": "1234567890",
+        "e-mail": "johndoe@example.com",
+        "city": "New York",
+        "address": "123 Main St"
+    },
+    {
+        "id": "2",
+        "name": "Jane Smith",
+        "phone": "0987654321",
+        "e-mail": "janesmith@example.com",
+        "city": "Los Angeles",
+        "address": "456 Elm St"
+    },
+    {
+        "id": "3",
+        "name": "Mike Johnson",
+        "phone": "5555555555",
+        "e-mail": "mikejohnson@example.com",
+        "city": "Chicago",
+        "address": "789 Oak St"
+    },
+    {
+        "id": "4",
+        "name": "Emily Davis",
+        "phone": "1111111111",
+        "e-mail": "emilydavis@example.com",
+        "city": "Houston",
+        "address": "987 Pine St"
+    },
+    {
+        "id": "5",
+        "name": "David Wilson",
+        "phone": "9999999999",
+        "e-mail": "davidwilson@example.com",
+        "city": "Phoenix",
+        "address": "654 Birch St"
+    },
+    {
+        "id": "6",
+        "name": "Sarah Taylor",
+        "phone": "7777777777",
+        "e-mail": "sarahtaylor@example.com",
+        "city": "Philadelphia",
+        "address": "321 Cedar St"
+    },
+    {
+        "id": "7",
+        "name": "Chris Anderson",
+        "phone": "4444444444",
+        "e-mail": "chrisanderson@example.com",
+        "city": "San Antonio",
+        "address": "876 Maple St"
+    },
+    {
+        "id": "8",
+        "name": "Jessica Thomas",
+        "phone": "2222222222",
+        "e-mail": "jessicathomas@example.com",
+        "city": "San Diego",
+        "address": "543 Walnut St"
+    },
+    {
+        "id": "9",
+        "name": "Ryan Martinez",
+        "phone": "8888888888",
+        "e-mail": "ryanmartinez@example.com",
+        "city": "Dallas",
+        "address": "210 Oak St"
+    },
+    {
+        "id": "10",
+        "name": "Melissa Clark",
+        "phone": "6666666666",
+        "e-mail": "melissaclark@example.com",
+        "city": "San Francisco",
+        "address": "987 Elm St"
+    }
+]

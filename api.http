@@ -1,0 +1,25 @@
+### recuperar todos los Contactos
+GET http://localhost:1234/contactos
+
+### recuperar Contacto por id
+GET http://localhost:1234/contactos/1
+
+### crear un nuevo Contacto
+POST  http://localhost:1234/contactos
+Content-Type: application/json
+
+{
+  "nombre": "Charles Leclerc",
+  "phone": "3456789021",
+  "email": "charleslec@example.com",
+  "city": "Mónaco",
+  "address": "123 Monte Carlo St"
+}
+
+### actualizar un Contacto
+PATCH   http://localhost:1234/contactos/1
+Content-Type: application/json
+
+{
+    "address": "16 MonteCarlo St"
+}
